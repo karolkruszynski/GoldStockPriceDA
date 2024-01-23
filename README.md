@@ -1,5 +1,4 @@
-# Project Name
-Gold Stocks Prices Data
+# Gold Stocks Prices Data
 ## Table of Contents
 
 - [Description](#description)
